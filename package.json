@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "DEBUG=main*,db* node lib/app.js"
+    "start": "DEBUG=main*,db* node lib/app.js",
+    "local": "DEBUG=main*,db* DATABASE_URL='postgresql://bot:yaxis-discord@localhost:5432/yaxis_discord' node lib/app.js"
   },
   "repository": {
     "type": "git",

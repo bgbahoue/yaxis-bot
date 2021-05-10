@@ -28,8 +28,5 @@
             "contract": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73"
         }
     },
-    "db": {
-        "database": "discord"
-    },
     "refresh": 60000
 }
