@@ -1,0 +1,28 @@
+{
+  "name": "yaxis-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgbahoue/yaxis-bot.git"
+  },
+  "author": "Bakou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgbahoue/yaxis-bot/issues"
+  },
+  "homepage": "https://github.com/bgbahoue/yaxis-bot#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bluebird": "^3.7.2",
+    "debug": "^3.1.0",
+    "discord": "^0.8.2",
+    "etherscan-api": "^10.0.5",
+    "pg": "^8.6.0",
+    "querystring": "^0.2.1"
+  }
+}
