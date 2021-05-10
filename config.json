@@ -1,0 +1,35 @@
+{
+    "discord": {
+        "webhook": {
+            "id": "840167088617947156",
+            "token": "wB-jvvRPB9FjG3hvVF7_bZuld-LSxRp9R9T0yMOBxyU_Ec467FovQ5zj5gu-7CgVznu8"
+        },
+        "emoji": {
+            "yaxis": {
+                "name": "yAxis_logo_official",
+                "id": "841263987735527424"
+            }
+        }
+    },
+    "etherscan": {
+        "base_url": "https://etherscan.io",
+        "api_key": "2X8FNJX2FBV6UBWGU37RPUSY41UTEZUTWC",
+        "page": 1,
+        "offset": 10000
+    },
+    "yaxis": {
+        "logo_url": "https://etherscan.io/token/images/yaxisv2_32.png",
+        "metavault": {
+            "contract": "0xA2d3d3DcC9E33e1708c0Ac973c2C74D2dAce945D",
+            "contract_url": "https://etherscan.io/address/0xA2d3d3DcC9E33e1708c0Ac973c2C74D2dAce945D#tokentxns",
+            "startblock": 12389196
+        },
+        "token": {
+            "contract": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73"
+        }
+    },
+    "db": {
+        "database": "discord"
+    },
+    "refresh": 60000
+}
