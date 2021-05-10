@@ -21,7 +21,7 @@
     "axios": "^0.21.1",
     "bluebird": "^3.7.2",
     "debug": "^3.1.0",
-    "discord": "^0.8.2",
+    "discord.js": "^12.5.3",
     "etherscan-api": "^10.0.5",
     "pg": "^8.6.0",
     "querystring": "^0.2.1"
