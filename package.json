@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node lib/app.js",
-    "local": "DEBUG=main*,db* DATABASE_URL='postgresql://bot:yaxis-discord@localhost:5432/yaxis_discord' node lib/app.js"
+    "local": "DEBUG=main*,db* DATABASE_URL='postgresql://bot:yaxis-discord@localhost:5432/yaxis_discord' WEBHOOK_ID=840167088617947156 WEBHOOK_TOKEN='wB-jvvRPB9FjG3hvVF7_bZuld-LSxRp9R9T0yMOBxyU_Ec467FovQ5zj5gu-7CgVznu8' YAXIS_EMOJI_NAME=yAxis_logo_official YAXIS_EMOJI_ID=841263987735527424 ETHERSCAN_API_KEY=2X8FNJX2FBV6UBWGU37RPUSY41UTEZUTWC node lib/app.js"
   },
   "repository": {
     "type": "git",
