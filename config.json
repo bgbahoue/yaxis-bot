@@ -28,5 +28,5 @@
             "contract": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73"
         }
     },
-    "refresh": 60000
+    "refresh": 300000
 }
