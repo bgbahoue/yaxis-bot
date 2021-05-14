@@ -12,3 +12,4 @@ INSERT INTO tokenHistoricalPrices(timestamp, price) VALUES(1620263795, 37.8);
 INSERT INTO tokenHistoricalPrices(timestamp, price) VALUES(1620417324, 26.17);
 INSERT INTO tokenHistoricalPrices(timestamp, price) VALUES(1620584678, 29.95);
 INSERT INTO tokenHistoricalPrices(timestamp, price) VALUES(1620815858, 29.62);
+INSERT INTO tokenHistoricalPrices(timestamp, price) VALUES(1620938997, 24.87);
