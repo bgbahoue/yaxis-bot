@@ -25,7 +25,11 @@
             "startblock": 0
         },
         "token": {
-            "contract": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73"
+            "contract": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73",
+            "token_price": {
+                "api_url": "https://api.coingecko.com/api/v3/simple/token_price/ethereum",
+                "source": "coingecko"
+            }
         }
     },
     "refresh": 300000
